@@ -1,0 +1,6 @@
+[submodule "SmWeb"]
+	path = SmWeb
+	url = https://github.com/gtd4/SmWeb.git
+[submodule "SmCommon"]
+	path = SmCommon
+	url = https://github.com/gtd4/SmCommon.git
